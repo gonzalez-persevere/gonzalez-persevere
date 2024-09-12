@@ -20,6 +20,6 @@ After graduating from Persevere, I found my passion for teaching and began givin
 I believe in lifelong learning and am constantly exploring new tools and technologies to enhance my coding skills and teaching methods.
 
 ## 📫 Let's Connect
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/arnulfo-gonzalez-402794246)) or check out my repositories here on GitHub.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/arnulfo-gonzalez-402794246) or check out my repositories here on GitHub.
 
 
